@@ -1,6 +1,6 @@
 # Marble Race
 
-![A purple marble sits at the beginning of a race track filled with moving red obstacles. The words "Marble Race" appear beside the marble. There's an unstarted timer that appears above the marble and a simplistic display of arrow or WASD keys and a space bar below.](./public/marble-race.png)
+![A purple marble sits at the beginning of a race track filled with moving red obstacles. The words "Marble Race" appear beside the marble. There's an unstarted timer that appears above the marble and a simplistic display of arrow or WASD keys and a space bar below.](./public/marble-race.jpg)
 
 This project brings together many concepts of working with Three.js and React Three Fiber to create an in-browser game controlled by a keyboard.
 
